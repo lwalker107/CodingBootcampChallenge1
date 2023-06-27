@@ -9,7 +9,7 @@ made sure the elements follow a logical structure, made alt attributes available
 
 ## Screenshot
 
-![screenshot](C:\Users\User\OneDrive\python_work\OneDrive\Documents\Bootcamp\homework\Week 2 Coding Bootcamp\challenge1screenshot.PNG)
+![screenshot](./assets/images/challenge1screenshot.PNG)
 
 ## Link
 
