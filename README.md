@@ -13,4 +13,4 @@ made sure the elements follow a logical structure, made alt attributes available
 
 ## Link
 
-![link](https://github.com/lwalker107/CodingBootcampChallenge1)
+![link](http://127.0.0.1:5500/CodingBootcampChallenge1/index.html)
