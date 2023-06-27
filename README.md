@@ -9,7 +9,7 @@ made sure the elements follow a logical structure, made alt attributes available
 
 ## Screenshot
 
-![screenshot](![Alt text](<../Week 2 Coding Bootcamp/challenge1screenshot.PNG>))
+![screenshot](<../Week 2 Coding Bootcamp/challenge1screenshot.PNG>))
 
 ## Link
 
